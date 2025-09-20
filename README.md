@@ -5,6 +5,7 @@ PyEffection - более 62 эффектов для видео <br>
 код прост для изучения и модификации всё в вашем воображении - можно дополнять  <br>
 своими эффектами и создать окно избранное. код очень подробно объяснён на русском языке. <br>
  <br> 
+DEMONstration here: https://vk.com/video-221139259_456239043 <br>
 PyEffection - over 62 video effects <br>
 conversion to GIF and from GIF to webm, a format suitable for animated Telegram stickers <br>
 (videos for stickers must be no longer than 3 seconds).... <br>
